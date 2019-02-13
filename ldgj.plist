@@ -33,9 +33,9 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.xcgj.wxsd</string>  
+                <string>com.xcgj.ldgj</string>  
                 <key>bundle-version</key>  
-                <string>1.0.0</string>  
+                <string>1.3.0</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
