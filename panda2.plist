@@ -33,13 +33,13 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.xcgj.panda</string>  
+                <string>com.xcgj.wxsd</string>  
                 <key>bundle-version</key>  
                 <string>1.0.1</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>ÐÜÃ¨</string>  
+                <string>ç†ŠçŒ«</string>  
             </dict>  
         </dict>  
     </array>  
